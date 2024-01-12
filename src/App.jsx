@@ -1,6 +1,6 @@
 import React from "react";
 import bgVideo from "./assets/earth-bg.mp4";
-import Navbar from "./components/Navbar/navbar";
+import Navbar from "./components/Navbar/Navbar";
 import Main from "./components/Main/Main";
 import Exploration from "./components/Exploration/Exploration";
 import Banner from "./components/Banner/Banner";
